@@ -31,7 +31,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:13.5.0"],\
+            ["@types/prettier", "npm:2.7.1"],\
             ["eslint-config-react-app", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:7.0.1"],\
+            ["prettier", "npm:2.7.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:18.2.0"],\
             ["react-scripts", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:5.0.1"],\
@@ -6003,7 +6005,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:13.5.0"],\
+            ["@types/prettier", "npm:2.7.1"],\
             ["eslint-config-react-app", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:7.0.1"],\
+            ["prettier", "npm:2.7.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:18.2.0"],\
             ["react-scripts", "virtual:a2eb9c761d3f2f5a54785dc48f11530f742a085568a27278c10fafea0fc3c68c6919310052dd90eb9943c50beb3ee043cac359438a44933b56bfcdf611a63aca#npm:5.0.1"],\
@@ -14139,6 +14143,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/prelude-ls-npm-1.2.1-3e4d272a55-cd192ec0d0.zip/node_modules/prelude-ls/",\
           "packageDependencies": [\
             ["prelude-ls", "npm:1.2.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["prettier", [\
+        ["npm:2.7.1", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.7.1-d1f40f5e1a-55a4409182.zip/node_modules/prettier/",\
+          "packageDependencies": [\
+            ["prettier", "npm:2.7.1"]\
           ],\
           "linkType": "HARD"\
         }]\

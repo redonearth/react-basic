@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Counter from './components/Counter';
-import './App.css';
+import './styles/counter.css';
 
 export default function AppCounter() {
   const [count, setCount] = useState(0);

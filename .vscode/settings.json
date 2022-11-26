@@ -4,6 +4,9 @@
     "**/.pnp.*": true
   },
   "prettier.prettierPath": ".yarn/sdks/prettier/index.js",
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
   "[javascriptreact]": {
     "editor.formatOnSave": true
   },
